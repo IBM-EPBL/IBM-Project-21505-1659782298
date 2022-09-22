@@ -4,4 +4,19 @@ Hazardous Area Monitoring for Industrial Plant powered by IoT
 
 
 
-this project is done by MAHENDRA ENGINEERING STUDENTS:RATHISH 
+this project is done by
+
+
+MAHENDRA ENGINEERING STUDENTS
+RATHISH 
+
+
+RAHUL
+
+
+
+SURYA
+
+
+
+SUDHARSAN
